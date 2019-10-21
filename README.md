@@ -8,9 +8,9 @@ This repository contains the code (in PyTorch) for "[Adaptive Unimodal Cost Volu
 
 If you find the code useful, please cite our paper:
 
-  @article{zhang2019adaptive,
-    title={Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching},
-    author={Zhang, Youmin and Chen, Yimin and Bai, Xiao and Zhou, Jun and Yu, Kun and Li, Zhiwei and Yang, Kuiyuan},
-    journal={arXiv preprint arXiv:1909.03751},
-    year={2019}
-  }
+    @article{zhang2019adaptive,
+      title={Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching},
+      author={Zhang, Youmin and Chen, Yimin and Bai, Xiao and Zhou, Jun and Yu, Kun and Li, Zhiwei and Yang, Kuiyuan},
+      journal={arXiv preprint arXiv:1909.03751},
+      year={2019}
+    }

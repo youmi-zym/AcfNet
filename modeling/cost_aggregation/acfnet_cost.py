@@ -7,6 +7,7 @@ from .utils.hourglass import Hourglass
 
 class AcfCost(nn.Module):
     """
+    It's the same as PSMNet cost aggregation network.
     Args:
         max_disp, (int): max disparity
         in_planes, (int): the channels of raw cost volume

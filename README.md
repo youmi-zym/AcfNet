@@ -1,5 +1,5 @@
 # AcfNet
-This repository contains the code (in PyTorch) for "[Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching](https://arxiv.org/abs/1909.03751)".
+This repository contains the code (in PyTorch) for "[Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching](https://arxiv.org/abs/1909.03751)", accepted in AAAI 2020.
 
 ## Notes
 

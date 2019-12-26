@@ -3,9 +3,8 @@ This repository contains the code (in PyTorch) for "[Adaptive Unimodal Cost Volu
 
 ## Notes
 
-* We have provided the modules used in our AcfNet.
-* Specially, a DenseMatchingBenchmark is coming, mainly designed for stereo matching task.
-* The architecture is based on two wellknown detection framework: [mmdetection](https://github.com/open-mmlab/mmdetection) and [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark). By integrating their major features, our architecture is suitable for dense matching(e.g. stereo matching), and achieves robust performance！
+* We have provided all modules used in our AcfNet, and it can be directly integrated into our recent released [DenseMatchingBenchmark](https://github.com/DeepMotionAIResearch/DenseMatchingBenchmark) for training. 
+
 
 
 ## Requirements:
